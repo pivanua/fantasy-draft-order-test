@@ -1,0 +1,52 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+*-cover.txt
+
+*.qcow*
+
+# Ignore IntelliJ IDEA files
+*.idea
+*.iml
+*.iws
+*.ipr
+**/.vscode/**
+
+# Ignore go_path
+/.go_path/
+
+.DS_Store
+out
+bin
+.classpath
+.settings
+.project
+*.code-workspace
+
+# Ignore autogeneted Helm-related files
+Chart.lock
+/.vagrant/
+
+node_modules
+local/
+
+# Ignore helm build files
+/chart/build
