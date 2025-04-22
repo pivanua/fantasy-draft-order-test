@@ -5,4 +5,4 @@ Randomly assigns a fantasy manager to a country in the Equestrian final for the 
 
 The draft order will be determined by the standings of the final on August 2nd, 2024.
 
-USA
+USA UKR
